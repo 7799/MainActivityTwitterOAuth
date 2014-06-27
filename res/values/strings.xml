@@ -14,8 +14,8 @@
     <string name="dialog_message_text">preparing\.\.\.</string>
 
     <!-- Twitter API Keys -->
-    <string name="twitter_consumer_key">KEY</string>
-    <string name="twitter_consumer_key_secret">KEY_SECRET</string>
+    <string name="twitter_consumer_key">tpR2vuyW5e47iQtuHRrm3PQun</string>
+    <string name="twitter_consumer_key_secret">SQfGSawnyO3iG8GOS6Y9xgKUA339dBMBtcLtypRFnUhUd1VWYG</string>
 
     <!-- Shared preferences -->
     <string name="shared_pref_name">twitter_auth_sample</string>
